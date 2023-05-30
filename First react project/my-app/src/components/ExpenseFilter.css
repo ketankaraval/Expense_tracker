@@ -1,0 +1,11 @@
+
+.expenses-filter_control{
+    padding-left: 43rem;
+}
+select{ 
+    border-radius: 0.5rem;
+    height: 2.5rem;
+    width: 7rem;
+    font-size: 1.2rem;
+    padding-left: 0.5rem;
+}
